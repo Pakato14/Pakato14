@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Daniel Oliveira Araújo
+# 🧑🏻‍💻 Daniel Oliveira Araújo
 
 **`Desenvolvedor FullStack`**
 
